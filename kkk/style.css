@@ -1,0 +1,19 @@
+body {    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;    padding: 0;
+    background: linear-gradient(to right, #001f3f, #003366);    color: #ffffff;
+}
+header {    padding: 20px;
+    text-align: center;}
+section {
+    max-width: 800px;    margin: 20px auto;
+    padding: 20px;    background-color: rgba(0, 0, 0, 0.9);
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);    border-radius: 8px;
+}
+h1 {    color: #3498db;
+}
+p {    line-height: 1.6;
+}
+ul {    list-style: none;
+    padding: 0;}
+li {
+    margin-bottom: 10px;}
